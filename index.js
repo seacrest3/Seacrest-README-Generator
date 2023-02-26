@@ -1,9 +1,9 @@
-// const fs = require("fs");
-import * as fs from 'fs';
+const fs = require("fs");
+// import * as fs from 'fs';
 // const path = require('path');
-// const inquirer = require("inquirer");
-import inquirer from 'inquirer';
-// const generateMarkdown = require("./utils/generateMarkdown");
+const inquirer = require("inquirer");
+// import inquirer from 'inquirer';
+const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
@@ -66,9 +66,8 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then((response) => {
-            console.log(response);
-            writeToFile("./output/README.md", "Read me");
-        })
+            writeToFile("./output/README.md", generateMarkdown(response));
+        });
 }
 
 // function call to initialize program
