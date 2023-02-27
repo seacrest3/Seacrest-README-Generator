@@ -1,12 +1,13 @@
 
-  # QQQ
+  # DDD
 
-  [![License: BSD 3](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]
+  [![License: Boost 1.0](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]
 
   ## Description
   
 
   ## Table of Contents
+  * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -19,7 +20,7 @@
   ## Usage
   
   ## License
-  This application is covered by the [BSD 3](https://opensource.org/licenses/BSD-3-Clause) license.
+  This application is covered by the [Boost 1.0](https://www.boost.org/LICENSE_1_0.txt) license.
   ## Contributing
   
   ## Tests
