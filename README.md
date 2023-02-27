@@ -13,7 +13,7 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
-A README.md file generated using the application is in the output directory of the project repository
+The sample README generated using the application is in the 'output' directory of the project repository
 
 ### User Story
 
@@ -53,7 +53,7 @@ AS A developer, I WANT a README generator so that I can quickly create a profess
 
 The following video demonstrates the command-line application's appearance and functionality:
 
-![The command-line application dynamically generates a README file.](./assets/images/mockup)
+![The command-line application dynamically generates a README file.](./assets/images/mockup.gif)
 
 When a user run node index.js at the terminal,
 
@@ -67,7 +67,7 @@ When a user run node index.js at the terminal,
 
 TA, a Web Developer, reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met.
 
-* [The URL of the deployed application.](https://seacrest3.github.io/Seacrest-README-Generator/)
+* [A walkthrough video demonstrating the functionality of the application.](https://seacrest3.github.io/Seacrest-README-Generator/assets/images/mockup.gif)
 
 * [The URL of the GitHub repository.](https://github.com/seacrest3/Seacrest-README-Generator.git)
 
