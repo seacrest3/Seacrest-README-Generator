@@ -55,7 +55,7 @@ The sample README generated using the application is in the 'output' directory o
 
 The following video demonstrates the command-line application's appearance and functionality:
 
-![The command-line application dynamically generates a README file.](./assets/images/mockup.gif)
+![The command-line application dynamically generates a README file.](https://watch.screencastify.com/v/Lypme462Gah8CVVR2xsQ)
 
 When a user run node index.js at the terminal,
 
@@ -69,7 +69,7 @@ When a user run node index.js at the terminal,
 
 TA, a Web Developer, reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met.
 
-* [A walkthrough video demonstrating the functionality of the application.](https://seacrest3.github.io/Seacrest-README-Generator/assets/images/mockup.gif)
+* [A walkthrough video demonstrating the functionality of the application.](https://watch.screencastify.com/v/Lypme462Gah8CVVR2xsQ)
 
 * [The URL of the GitHub repository.](https://github.com/seacrest3/Seacrest-README-Generator.git)
 
