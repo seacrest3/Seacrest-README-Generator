@@ -8,16 +8,18 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 It is tasked to create a command-line application that dynamically generates a professional README.md file from a user's input. This allows the project creator to devote more time to working on the project.
 
+### User Story
+
+AS A developer, I WANT a README generator so that I can quickly create a professional README for a new project.
+
+## Usage
+
 The application will be invoked by using the following command:
 
 ```bash
 node index.js
 ```
 The sample README generated using the application is in the 'output' directory of the project repository
-
-### User Story
-
-AS A developer, I WANT a README generator so that I can quickly create a professional README for a new project
 
 ### Acceptance Criteria
 
