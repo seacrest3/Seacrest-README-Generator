@@ -55,7 +55,7 @@ The sample README generated using the application is in the 'output' directory o
 
 The following video demonstrates the command-line application's appearance and functionality:
 
-![The command-line application dynamically generates a README file.](https://watch.screencastify.com/v/Lypme462Gah8CVVR2xsQ)
+[Walkthrough Video](https://watch.screencastify.com/v/Lypme462Gah8CVVR2xsQ)
 
 When a user run node index.js at the terminal,
 
