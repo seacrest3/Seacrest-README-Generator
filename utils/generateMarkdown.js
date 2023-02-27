@@ -10,9 +10,9 @@ function generateMarkdown(data) {
     username,
     email } = data;
 
-    let badge = ``;
-    let licenseLink = ``;
-
+  let badge = ``;
+  let licenseLink = ``;
+  // License options and links
   if (license == 'MIT') {
     badge = `[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)`;
     licenseLink = `https://opensource.org/licenses/MIT`;
@@ -52,18 +52,21 @@ function generateMarkdown(data) {
   
   ## Installation
   ${instruction}
+
   ## Usage
   ${usage}
+
   ## License
   This application is covered by the [${license}](${licenseLink}) license.
+
   ## Contributing
   ${contribution}
+
   ## Tests
   ${test}
+  
   ## Questions
-  ${username}
-  ${email}
-
+  Please visit [github/${username}](https://github.com/${username}) or send your questions by email to [here](mailto:${email}).
 `;
 }
 

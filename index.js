@@ -30,13 +30,13 @@ const questions = [
       {
         type: "checkbox",
         name: "license",
-        message: "Please select a license applicable to this project.",
+        message: "Please select a license applicable to this project:",
         choices: ["MIT", "ISC", "Boost 1.0", "GNU GPL v3", "BSD 3", "none"],
       },
       {
         type: "input",
         name: "contribution",
-        message: "Please provide the contribution guidelines",
+        message: "Please provide the contribution guidelines:",
         default: "",
       },
       {
@@ -47,12 +47,12 @@ const questions = [
       {
         type: "input",
         name: "username",
-        message: "Please provide your GitHub username.",
+        message: "Please provide your GitHub username:",
       },
       {
         type: "input",
         name: "email",
-        message: "Please provide your email address.",
+        message: "Please provide your email address:",
       },
 ];
 
