@@ -33,11 +33,36 @@ function generateMarkdown(data) {
     badge = `[![License: BSD 3](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]`;
     licenseLink = `https://opensource.org/licenses/BSD-3-Clause`;
   }
-  return `# ${title}
+  return `
+  # ${title}
+
   ${badge}
+
+  ## Description
+  ${description}
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## Installation
+  ${instruction}
+  ## Usage
+  ${usage}
   ## License
   This application is covered by the [${license}](${licenseLink}) license.
-  
+  ## Contributing
+  ${contribution}
+  ## Tests
+  ${test}
+  ## Questions
+  ${username}
+  ${email}
+
 `;
 }
 
