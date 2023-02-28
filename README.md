@@ -51,11 +51,15 @@ The sample README generated using the application is in the 'output' directory o
 
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
 
-### Walkthrough Video
+### Walkthrough Video and Images
 
 The following video demonstrates the command-line application's appearance and functionality:
 
 [Walkthrough Video](https://watch.screencastify.com/v/Lypme462Gah8CVVR2xsQ)
+
+![README-Generator commnad line user input mock up](./assets/images/mockup1.png)
+
+![README-Generator command line application running mock up](./assets/images/mockup2.png)
 
 When a user run node index.js at the terminal,
 
