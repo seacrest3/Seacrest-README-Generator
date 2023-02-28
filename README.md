@@ -53,7 +53,7 @@ The sample README generated using the application is in the 'output' directory o
 
 ### Walkthrough Video and Images
 
-The following video demonstrates the command-line application's appearance and functionality:
+The following video and images demonstrate the command-line application's appearance and functionality:
 
 [Walkthrough Video](https://watch.screencastify.com/v/Lypme462Gah8CVVR2xsQ)
 
